@@ -1,6 +1,6 @@
 /*------------------------------------------------------------
-    Template name    : Technoit - IT Solutions & Business Services Multipurpose Responsive Website Template
-    Author           : ZRTHEMES
+    
+    Author           : Ahmed
     Version          : 2.0
     File Description : Main css file of the template
 --------------------------------------------------------------*/
@@ -449,8 +449,8 @@ img:hover {
 }
 
 .header .logo img {
-  max-height: 40px;
-  margin-right: 6px;
+  max-height: 50px;
+  margin-right: 8px;
 }
 
 .header.stikcy-menu {
