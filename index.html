@@ -1089,6 +1089,13 @@ All rights reserved. | About | Services | Support | Contact.</p>
   <!-- Template Main JS File -->
   <script src="assets/javascripts/main.js"></script>
 
+<script>
+document.getElementById("ajax-contact").addEventListener("submit", function() {
+  const button = this.querySelector("button[type='submit']");
+  button.disabled = true;
+  button.textContent = "Sending...";
+});
+</script>
 
 
 </body>
